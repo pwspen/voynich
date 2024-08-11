@@ -158,8 +158,8 @@
 #
 <f3v>      <! $Q=A $P=F $F=c $B=3 $I=H $L=A $H=1 $C=1>
 # page 6
-# Currier's language A, hand 1
 # herbal
+# Currier's language A, hand 1
 # Two paragraphs of text, left of plant picture
 # Same root as f100v [1,1] (Petersen
 #
@@ -318,7 +318,7 @@
 # page 13
 # herbal
 # Currier's language A, hand 1
-# Pland ID: Nymphaea alba
+# Plant ID: Nymphaea alba
 # 10 lines in two paragraphs, both cut by plant
 #
 <f7r.1,@P0>       <%>fchodaiin.shopchey.qko<->shey.qoos.sheey.charochy
@@ -1372,8 +1372,8 @@
 #
 <f33r>     <! $Q=E $P=A $F=a $B=1 $I=H $L=B $H=2 $C=2>
 # page 63
-# Currier's language B, hand 2
 # herbal
+# Currier's language B, hand 2
 #
 <f33r.1,@P0>      <%>tshdar.shd[o:a]r.shepchdy.cphody.yfoldy.qofo{ikh}dy.otchedy.lfchdy.daiin
 <f33r.2,+P0>      ytchedy.qokar.cheky.okaldy.qokaldy.otor.oldar.qotar.otar.otardam
@@ -1386,8 +1386,8 @@
 #
 <f33v>     <! $Q=E $P=B $F=a $B=1 $I=H $L=B $H=2 $C=2>
 # page 64
-# Currier's language B, hand 2
 # herbal
+# Currier's language B, hand 2
 # Publ: NYT 6May75, Krauss 30(top)?, Kahn plate, B@R p90 ; 'Sunflowers'
 # Plant ID: Scabiosa
 #
@@ -1407,8 +1407,8 @@
 #
 <f34r>     <! $Q=E $P=C $F=b $B=2 $I=H $L=B $H=2 $C=2>
 # page 65
-# Currier's language B, hand 2
 # herbal
+# Currier's language B, hand 2
 # Publ: Krauss 30(top), B@R p91; "Sunflowers''
 # Plant ID: smaller scabiosa
 #
@@ -1436,8 +1436,8 @@
 #
 <f34v>     <! $Q=E $P=D $F=b $B=2 $I=H $L=B $H=2 $C=2>
 # page 66
-# Currier's language B, hand 2
 # herbal
+# Currier's language B, hand 2
 # Plant ID: libanotus umbilifera
 #
 <f34v.1,@P0>      <%>k[e':s]chdy.chdy.chefchy.shdy.qopchdy.shdydy.chdalchdy.ypchdy.chcthdy.spaiin
@@ -1456,8 +1456,8 @@
 #
 <f35r>     <! $Q=E $P=E $F=c $B=3 $I=H $L=A $H=1 $C=1>
 # page 67
-# Currier's language A, hand 1
 # herbal
+# Currier's language A, hand 1
 # Plant ID: orchid root?
 #
 <f35r.1,@P0>      <%>{c@132;h}oo.r,choly,{c@196;h}y.choty.char.dy
@@ -1480,8 +1480,8 @@
 #
 <f35v>     <! $Q=E $P=F $F=c $B=3 $I=H $L=A $H=1 $C=1>
 # page 68
-# Currier's language A, hand 1
 # herbal
+# Currier's language A, hand 1
 # Plant ID: uva quercia (vitis), oak/quercus, gall apple?
 # grape vine?, oak tree (RZ)
 #
@@ -1510,8 +1510,8 @@
 #
 <f36r>     <! $Q=E $P=G $F=d $B=4 $I=H $L=A $H=1 $C=1>
 # page 69
-# Currier's language A, hand 1
 # herbal
+# Currier's language A, hand 1
 # Plant ID: Geranium (SDC = [RZ])
 #
 <f36r.1,@P0>      <%>pcha@151;dan.qorain.chcfhal.soiin.cphor.shaiin.cthy.dair
@@ -1528,8 +1528,8 @@
 #
 <f36v>     <! $Q=E $P=H $F=d $B=4 $I=H $L=A $H=1 $C=1>
 # page 70
-# Currier's language A, hand 1
 # herbal
+# Currier's language A, hand 1
 # Plant ID: Indian hemp
 #
 <f36v.1,@P0>      <%>pchar,asy.qoforom.shoaiin.tchey.ch[{ckoh}:{ckhh}]y.otaiin.cphar.daiin
@@ -1551,8 +1551,8 @@
 #
 <f37r>     <! $Q=E $P=I $F=w $B=4 $I=H $L=A $H=1 $C=1>
 # page 71
-# Currier's language A, hand 1
 # herbal
+# Currier's language A, hand 1
 # The page seems to have been torn and stiched
 # Plant ID: Baldrian, Valerian, dwarf ceder(?), (+illegible)
 #
@@ -1573,8 +1573,8 @@
 #
 <f37v>     <! $Q=E $P=J $F=w $B=4 $I=H $L=A $H=1 $C=1>
 # page 72
-# Currier's language A, hand 1
 # herbal
+# Currier's language A, hand 1
 # Same plant as f102r1[3,1] ? (Stolfi)
 #
 <f37v.1,@P0>      <%>[t:k]shody.qocthy.qotoldy.chopdain.sol
@@ -1606,8 +1606,8 @@
 #
 <f38r>     <! $Q=E $P=K $F=x $B=3 $I=H $L=A $H=1 $C=1>
 # page 73
-# Currier's language A, hand 1
 # herbal
+# Currier's language A, hand 1
 #
 <f38r.1,@P0>      <%>tolor.chockhy<->oky.choiin.okshol.oly.oky
 <f38r.2,+P0>      okshey.chodys<->ytoiin.otaiin.otaiin.cthar
@@ -1619,8 +1619,8 @@
 #
 <f38v>     <! $Q=E $P=L $F=x $B=3 $I=H $L=A $H=1 $C=1>
 # page 74
-# Currier's language A, hand 1
 # herbal
+# Currier's language A, hand 1
 # Plant ID: Cickorium?, Lactuca
 #
 <f38v.1,@P0>      <%>okchop.chol.shotol.oteol.okee[a:y].s<->chor.d.aiin,d
@@ -1635,8 +1635,8 @@
 #
 <f39r>     <! $Q=E $P=M $F=y $B=2 $I=H $L=B $H=2 $C=2>
 # page 75
-# Currier's language B, hand 2
 # herbal
+# Currier's language B, hand 2
 # Plant ID: crocus? (RZ)
 # Same plant as f95r2 ? (Stolfi)
 #
@@ -1662,8 +1662,8 @@
 #
 <f39v>     <! $Q=E $P=N $F=y $B=2 $I=H $L=B $H=2 $C=2>
 # page 76
-# Currier's language B, hand 2
 # herbal
+# Currier's language B, hand 2
 # Plant ID: Primulaceon(?) (ag arthritis)
 #
 <f39v.1,@P0>      <%>pdair.chdy.fdykain.or.air.sheykaiiin.ofchy.kar.or.aiin.dolky.o[sh:{i'h}]dy
@@ -1685,8 +1685,8 @@
 #
 <f40r>     <! $Q=E $P=O $F=z $B=1 $I=H $L=B $H=2 $C=2>
 # page 77
-# Currier's language B, hand 2
 # herbal
+# Currier's language B, hand 2
 # Plant ID: Primulaceon
 #
 <f40r.1,@P0>      <%>pchey.k,eodar.aldydy<->qoky.okal.shdy.olkedy.opches.ar.ordaiin
@@ -1705,8 +1705,8 @@
 #
 <f40v>     <! $Q=E $P=P $F=z $B=1 $I=H $L=B $H=2 $C=2>
 # page 78
-# Currier's language B, hand 2
 # herbal
+# Currier's language B, hand 2
 # gathering mark 5
 # Plant ID: Thistle, Gerneolem(?) Artichoke, Helianthus Tuberosus
 #
@@ -1883,7 +1883,7 @@
 <f44r>     <! $Q=F $P=G $F=d $B=4 $I=H $L=A $H=1 $C=1>
 # page 85
 # herbal
-# Curriers language A, hand 1
+# Currier's language A, hand 1
 # Plant ID: Veratrum (sp?)
 #
 <f44r.1,@P0>      <%>tshodpy.ora{iph}y.koees.ypsholy.shy.otoloaiin
@@ -1904,7 +1904,7 @@
 <f44v>     <! $Q=F $P=H $F=d $B=4 $I=H $L=A $H=1 $C=1>
 # page 86
 # herbal
-# Curriers language A, hand 1
+# Currier's language A, hand 1
 #
 <f44v.1,@P0>      <%>tsho.qotshy.cthol.d.chor.otol.shol.tol.qotshol.otoldy
 <f44v.2,+P0>      yolkol.cheol.qokchain.daly.otchol.daiin.shol.qotor.ar
@@ -1926,7 +1926,7 @@
 <f45r>     <! $Q=F $P=I $F=w $B=4 $I=H $L=A $H=1 $C=1>
 # page 87
 # herbal
-# Curriers language A, hand 1
+# Currier's language A, hand 1
 #
 <f45r.1,@P0>      <%>pykydal.sha{ikh}y.oty.shey.qop.char.opchal.ypchor.ofchar
 <f45r.2,+P0>      shor.cthy.qoky.qokol.qokaiin.chol.chol.ykaiin.dar.om
@@ -1946,7 +1946,7 @@
 <f45v>     <! $Q=F $P=J $F=w $B=4 $I=H $L=A $H=1 $C=1>
 # page 88
 # herbal
-# Curriers language A, hand 1
+# Currier's language A, hand 1
 # Plant ID: Sentellaria, Veronica? carnedris(sp), Ehrenpreis?,
 # beatrum phula inal(sp)
 #
@@ -1967,7 +1967,7 @@
 <f46r>     <! $Q=F $P=K $F=x $B=3 $I=H $L=B $H=2 $C=2>
 # page 89
 # herbal
-# Curriers language B, hand 2
+# Currier's language B, hand 2
 # Plant (root) ID: Asclepias, (+unreadable)
 #
 <f46r.1,@P0>      <%>pcheocphy.qotedy.chety.dy.chepchx.yfcheky.o[s:r]aiin.shee.qoteol.daiin.shee.dy.daly
@@ -1994,7 +1994,7 @@
 <f46v>     <! $Q=F $P=L $F=x $B=3 $I=H $L=B $H=2 $C=2>
 # page 90
 # herbal
-# Curriers language B, hand 2
+# Currier's language B, hand 2
 # Plant ID: Boragine, Anchusa (has red mark along top of roots)
 #
 <f46v.1,@P0>      <%>pody,lshed.ypdy,shedy.opchedy.ytedy.oepchol.yfchey.tochsy.oka[s:r].ykchdy.daiin
@@ -2015,7 +2015,7 @@
 <f47r>     <! $Q=F $P=M $F=y $B=2 $I=H $L=A $H=1 $C=1>
 # page 91
 # herbal
-# Curriers language A, hand 1
+# Currier's language A, hand 1
 # Plant ID: Indian cucumber?
 #
 <f47r.1,@P0>      <%>@159;chair.oly.sheaiin.shol.daiin.chdy
@@ -2035,7 +2035,7 @@
 <f47v>     <! $Q=F $P=N $F=y $B=2 $I=H $L=A $H=1 $C=1>
 # page 92
 # herbal
-# Curriers language A, hand 1
+# Currier's language A, hand 1
 # Plant ID: Toronicum Pardalianchus (Holm) [Gemswurtz]
 # Same plant as f102r2[1,1] (Petersen)
 #
@@ -2059,7 +2059,7 @@
 <f48r>     <! $Q=F $P=O $F=z $B=1 $I=H $L=B $H=5 $C=2>
 # page 93
 # herbal
-# Curriers language B, hand 2
+# Currier's language B, hand 2
 # Same plant as f89v2[3,4] ? (Stolfi)
 #
 <f48r.1,@P0>      <%>pshdaiin.ypchdy.opchey.{c@162;h}y.dal.sheodaiin.sheokeol.ykeeody.olaiin.opaldy
@@ -2076,7 +2076,7 @@
 <f48v>     <! $Q=F $P=P $F=z $B=1 $I=H $L=B $H=5 $C=2>
 # page 94
 # herbal
-# Curriers language B, hand 2
+# Currier's language B, hand 2
 # gathering mark 6
 # Same plant as f89v[1,4] ? (Stolfi)
 #
@@ -2095,9 +2095,9 @@
 #
 #
 <f49r>     <! $Q=G $P=A $F=a $B=1 $I=H $L=A $H=1 $C=1>
-# herbal
 # page 95
-# Curriers language A, hand 1
+# herbal
+# Currier's language A, hand 1
 # Brumbaugh p4, Harper's 'potato'
 # Plant ID: Tamus communis (Holm), Scamonia
 #
