@@ -2129,7 +2129,7 @@
 <f49v>     <! $Q=G $P=B $F=a $B=1 $I=H $L=A $H=1 $C=1 $X=S>
 # page 96
 # herbal
-# Currier's language A,  hand 1
+# Currier's language A, hand 1
 # has a 'key-like' sequence
 # Plant ID: Lunaria. Cyclamen (Holm)
 # In the left margin there is a vertical sequence 1 2 3 4 5 aligned with
@@ -2194,7 +2194,7 @@
 <f50r>     <! $Q=G $P=C $F=b $B=2 $I=H $L=B $H=2 $C=2>
 # page 97
 # herbal
-# Currier's language B,  hand 2
+# Currier's language B, hand 2
 # Plant ID: Artichoke, (species of sunflower?)
 #
 <f50r.1,@P0>      <%>psheor.olkair.olfchedy.qop[eee:che]dar.opchey.dair.o,laiin.chefchdy
@@ -2212,7 +2212,7 @@
 <f50v>     <! $Q=G $P=D $F=b $B=2 $I=H $L=B $H=2 $C=2>
 # page 98
 # herbal
-# Currier's language B,  hand 2
+# Currier's language B, hand 2
 # Plant ID: Umbellifera? (O'Neill), (coxcomb?)
 #
 <f50v.1,@P0>      <%>tchy.do.ldar.shotchdy.qokchdy.opchedy.qokol.shor.ofar,fardam
@@ -2231,7 +2231,7 @@
 <f51r>     <! $Q=G $P=E $F=c $B=3 $I=H $L=A $H=1 $C=1>
 # page 99
 # herbal
-# Currier's language A,  hand 1
+# Currier's language A, hand 1
 # Plant ID: Mandrake (Manley)
 #
 <f51r.1,@P0>      <%>tsholdchy.qotchy.opchear.ypchedy
@@ -2254,7 +2254,7 @@
 <f51v>     <! $Q=G $P=F $F=c $B=3 $I=H $L=A $H=1 $C=1>
 # page 100
 # herbal
-# Currier's language A,  hand 1
+# Currier's language A, hand 1
 # Plant ID: Cow's tongue, Licopsis, Sedum Majus (Hauswurtz)
 #
 <f51v.1,@P0>      <%>poshody.qokodar.shodaiin.qotal<->dscheey.saiin,dy
@@ -2275,7 +2275,7 @@
 <f52r>     <! $Q=G $P=G $F=d $B=4 $I=H $L=A $H=1 $C=1>
 # page 101
 # herbal
-# Currier's language A,  hand 1
+# Currier's language A, hand 1
 # Plant ID: (unreadable)
 #
 <f52r.1,@P0>      <%>tdokchcfhy.ycphko.ytair.shar.qofy,daiin.ypchy.otchol.dar.yty
@@ -2291,7 +2291,7 @@
 <f52v>     <! $Q=G $P=H $F=d $B=4 $I=H $L=A $H=1 $C=1>
 # page 102
 # herbal
-# Currier's language A,  hand 1
+# Currier's language A, hand 1
 #
 <f52v.1,@P0>      <%>pchor.chcphol.cphaiiin.otcheor.ytor,kol.chocph[a:o]r
 <f52v.2,+P0>      ytchey.chol.ctho,daiir.shy.kor.ese,chor.chy.dam
@@ -2313,7 +2313,7 @@
 <f53r>     <! $Q=G $P=I $F=w $B=4 $I=H $L=A $H=1 $C=1>
 # page 103
 # herbal
-# Currier's language A,  hand 1
+# Currier's language A, hand 1
 # Plant ID: Elecampane
 #
 <f53r.1,@P0>      <%>k[o:a]dam,chocthody.oty
@@ -2330,7 +2330,7 @@
 <f53v>     <! $Q=G $P=J $F=w $B=4 $I=H $L=A $H=1 $C=1>
 # page 104
 # herbal
-# Currier's language A,  hand 1
+# Currier's language A, hand 1
 #
 <f53v.1,@P0>      <%>tshor,shey.qodckhy.e{ph}o.oltshey.daiin.qopchy
 <f53v.2,+P0>      okeey.daiin.sheekol.shom.shol.cthy.dchom.do
@@ -2350,7 +2350,7 @@
 <f54r>     <! $Q=G $P=K $F=x $B=3 $I=H $L=A $H=1 $C=1>
 # page 105
 # herbal
-# Currier's language A,  hand 1
+# Currier's language A, hand 1
 # Plant ID: Thistle, leaves of boneset
 #
 <f54r.1,@P0>      <%>podaiin.shodal.qopchol.cfhe[o:a]dy<->opcheol.chocphy
@@ -2371,7 +2371,7 @@
 <f54v>     <! $Q=G $P=L $F=x $B=3 $I=H $L=A $H=1 $C=1>
 # page 106
 # herbal
-# Currier's language A,  hand 1
+# Currier's language A, hand 1
 # not found in FSG item 1609
 #
 <f54v.1,@P0>      <%>pcheodar.chpal.oloiin.ckhey<!bar interrupted>.dar.qokeey.cpheeain.s,al
@@ -2395,7 +2395,7 @@
 <f55r>     <! $Q=G $P=M $F=y $B=2 $I=H $L=B $H=2 $C=2>
 # page 107
 # herbal
-# Currier's language B,  hand 2
+# Currier's language B, hand 2
 #
 <f55r.1,@P0>      <%>podaiin.shekchy.qofair.okar.yk.[{oh}:ch]epaiin.qokchdy.os.arod
 <f55r.2,+P0>      okair.or.aiin.chody.ykair.y.qokar.okar.ol.ykar.ar.al
@@ -2416,7 +2416,7 @@
 <f55v>     <! $Q=G $P=N $F=y $B=2 $I=H $L=B $H=2 $C=2>
 # page 108
 # herbal
-# Currier's language B,  hand 2
+# Currier's language B, hand 2
 # Plant ID: Elephant's ear?
 #
 <f55v.1,@P0>      <%>kcheedchdy.oedain.chckhy<->otoldaiin.dodyd
@@ -2438,7 +2438,7 @@
 <f56r>     <! $Q=G $P=O $F=z $B=1 $I=H $L=A $H=1 $C=1>
 # page 109
 # herbal
-# Currier's language A,  hand 1
+# Currier's language A, hand 1
 # Plant ID: Boragine echium, Dianthus flower (convolvulus?)
 # Kraus p45, Zimansky; 'fern'
 #
@@ -2467,7 +2467,7 @@
 <f56v>     <! $Q=G $P=P $F=z $B=1 $I=H $L=A $H=1 $C=1>
 # page 110
 # herbal
-# Currier's language A,  hand 1
+# Currier's language A, hand 1
 # gathering mark 7
 #
 <f56v.1,@P0>      <%>kche[a:o]t.shol.chey.qokoiin.shor,qotcheol.choror
@@ -2492,7 +2492,7 @@
 <f57r>     <! $Q=H $P=A $F=a $B=1 $I=H $L=B $H=5 $C=2>
 # page 111
 # herbal
-# Currier's language B,  hand 2
+# Currier's language B, hand 2
 #
 <f57r.1,@P0>      <%>poeeockhey.odain.cheop.sheody.shocfhey.dy.sheep.sheody.[e:y]odam
 <f57r.2,+P0>      daiir.air.chety.cheo,ckhy.chockhy.cheotey.sh,kchey.s.odaiin.shey
@@ -2511,7 +2511,7 @@
 <f57v>     <! $Q=H $P=B $F=a $B=1 $I=C $H=1>
 # page 112
 # cosmological
-# Currier's language B,  hand 2 (???)
+# Currier's language B, hand 2 (???)
 # has `key-like' sequences
 # has extraneous writing ==> Saturn symbol in lower right corner
 # General description of page:
@@ -3458,6 +3458,7 @@
 #
 <f70v2>    <! $Q=J $P=G $F=z $B=1 $I=Z $H=4 $X=M>
 # page 135
+# zodiac
 # Pisces
 #
 # General description of page:
@@ -3515,6 +3516,7 @@
 #
 <f70v1>    <! $Q=J $P=H $F=z $B=1 $I=Z $H=4 $X=M>
 # page 136
+# zodiac
 # Aries (dark)
 # Gathering mark 10
 # Two concentric circles of text. In the centre is the astrological
@@ -3548,6 +3550,7 @@
 #
 <f71r>     <! $Q=K $P=A $F=a $B=1 $I=Z $H=4 $X=M>
 # page 137
+# zodiac
 # Aries (light)
 #
 # Three rings of circular text, locus indications C1 to C3 (outer
@@ -3578,6 +3581,7 @@
 #
 <f71v>     <! $Q=K $P=B $F=a $B=1 $I=Z $H=4 $X=M>
 # page 138
+# zodiac
 # Taurus (light)
 #
 # General description of page:
@@ -3618,6 +3622,7 @@
 #
 <f72r1>    <! $Q=K $P=D $F=z $B=1 $I=Z $H=4 $X=M>
 # page 139
+# zodiac
 # Taurus (dark)
 # Three rings of circular text, locus indications C1 to C3 (outer
 # to inner) and fifteen labled nymphs. Inner ring has nymphs in
@@ -3647,6 +3652,7 @@
 #
 <f72r2>    <! $Q=K $P=E $F=z $B=1 $I=Z $H=4 $X=M>
 # page 140
+# zodiac
 # Gemini
 # Three rings of circular text, locus indications C1 to C3 (outer
 # to inner) and thirty labled nymphs. Inside inner ring the
@@ -3697,6 +3703,7 @@
 #
 <f72r3>    <! $Q=K $P=F $F=z $B=1 $I=Z $H=4 $X=M>
 # page 141
+# zodiac
 # Cancer
 # Four circular bands, locus indications C1 to C4 (outer
 # to inner). Three rings of labelled nymphs, 30 in total
@@ -3744,6 +3751,7 @@
 #
 <f72v3>    <! $Q=K $P=H $F=z $B=1 $I=Z $H=4 $X=M>
 # page 142
+# zodiac
 # Leo
 # Three circular bands, locus indications C1 to C3 (outer
 # to inner). Two rings of labelled nymphs, 30 in total
@@ -3789,6 +3797,7 @@
 #
 <f72v2>    <! $Q=K $P=I $F=z $B=1 $I=Z $H=4 $X=M>
 # page 143
+# zodiac
 # Virgo
 # Three circular bands, locus indications C1 to C3 (outer
 # to inner). Two rings of labelled nymphs, 30 in total
@@ -3834,6 +3843,7 @@
 #
 <f72v1>    <! $Q=K $P=J $F=z $B=1 $I=Z $H=4 $X=M>
 # page 144
+# zodiac
 # Libra
 # Three circular bands, locus indications C1 to C3 (outer
 # to inner). C2 start point suggested by ThP ignored and vertical
@@ -3882,6 +3892,7 @@
 #
 <f73r>     <! $Q=L $P=A $F=a $B=1 $I=Z $H=4 $X=M>
 # page 145
+# zodiac
 # Scorpius
 # Three circular bands, locus indications C1 to C3 (outer
 # to inner). Two full rings of labelled nymphs and one short
@@ -3928,6 +3939,7 @@
 #
 <f73v>     <! $Q=L $P=B $F=a $B=1 $I=Z $H=4 $X=M>
 # page 146
+# zodiac
 # Sagittarius
 # Three circular bands, locus indications C1 to C3 (outer
 # to inner). Two full rings of labelled nymphs and one short
@@ -4316,7 +4328,7 @@
 <f77v>     <! $Q=M $P=F $F=c $B=3 $I=B $L=B $H=2 $C=2>
 # page 152
 # biological
-# Currier's  language B, hand 2
+# Currier's language B, hand 2
 # Kahn p865, Kraus XXIX
 # ladies in tubes
 # Uterus @ ovaries (top)? Intestines (right)? (GL)
@@ -4477,7 +4489,7 @@
 <f79r>     <! $Q=M $P=I $F=e $B=5 $I=B $L=B $H=2 $C=2>
 # page 155
 # biological
-# Currier's  language B, hand 2
+# Currier's language B, hand 2
 # 7 ladies in various pipe systems
 # B@R p88
 #
@@ -4596,7 +4608,7 @@
 # page 157
 # biological
 # Guy p213 (who calls it f80v), Bennett p189
-# Currier's language B, hand  2
+# Currier's language B, hand 2
 # queens on top
 #
 <f80r.1,@Ln>      toroly
@@ -4722,7 +4734,7 @@
 # page 159
 # biological
 # Brumbaugh p9, Harper's; "hot tubs''
-# Currier's  language  B, hand 2
+# Currier's language B, hand 2
 # Right margin of text is irregular; missing picture?
 #
 <f81r.1,@P0>      <%>polchoy.qokedy.shol.opchedy.olpchedy.ofshdy.oly
@@ -4921,7 +4933,7 @@
 <f83r>     <! $Q=M $P=Q $F=y $B=2 $I=B $L=B $H=2 $C=2>
 # page 163
 # biological
-# Currier's  language B, hand 2
+# Currier's language B, hand 2
 #
 <f83r.1,@P0>      <%>tchedy.lpchedy.op{ch'}edy.chepol.pchedar.shedy.qopchedy
 <f83r.2,+P0>      sol.cheey.qokaiin.shol.lchs.shey.qoteedy.rches.ar.chedy.dor
@@ -4992,7 +5004,7 @@
 <f83v>     <! $Q=M $P=R $F=y $B=2 $I=B $L=B $H=2 $C=2>
 # page 164
 # biological
-# Currier's  language B, hand 2
+# Currier's language B, hand 2
 #
 <f83v.1,@P0>      <%>poldaky.dalol.otedy.chtair.opchedy.qotal.chedy.chepchedy.opchey
 <f83v.2,+P0>      dol.shedy.qokedy.shedy.qotedar.checthedy.qokedy.qotal.chey.dar
@@ -5098,7 +5110,7 @@
 <f84v>     <! $Q=M $P=T $F=z $B=1 $I=B $L=B $H=2 $C=2>
 # page 166
 # biological
-# Currier's language B,  hand 2
+# Currier's language B, hand 2
 # gathering mark 13
 #
 <f84v.1,@P1>      <%>otdy.dar.chdy.dar,oram
@@ -5584,7 +5596,7 @@
 <f86v3>    <! $Q=N $P=Q $F=z $B=1 $I=C $L=B $H=2 $C=3>
 # page 173,174
 # cosmological
-# Currier's language  B, hand  3
+# Currier's language B, hand 3
 # Normal paragraph in centre.
 # Additionally, four blocks counted clockwise (N, S, E, W)
 # Has a circle divided in 3 and some extraneous writing
@@ -5690,7 +5702,7 @@
 # page 181
 # pharmaceutical
 # Washington Post, 5 Aug 62 (Sunday)
-# Currier's  language A, hand 4
+# Currier's language A, hand 4
 # 3 rows of labelled roots, with paragraphs under each...
 #
 # top row of plants
@@ -5780,7 +5792,7 @@
 <f89r1>    <! $Q=O $P=F $F=y $B=2 $I=P $L=A $H=1>
 # page 183
 # pharmaceutical
-# Currier's  language A
+# Currier's language A
 #
 <f89r1.1,@Lc>     okchshy
 <f89r1.2,@Lf>     qkol
@@ -6305,7 +6317,7 @@
 #
 <f99v>     <! $Q=S $P=B $F=a $B=1 $I=P $L=A $H=1>
 # page 202
-# phamaceutical
+# pharmaceutical
 # B@R p88; faces "capsicum"
 # Currier's language A, hand 4?
 #
@@ -7207,7 +7219,7 @@
 #
 <f106v>    <! $Q=T $P=H $F=d $B=4 $I=S $L=B $H=3 $C=X>
 # page 219
-# text only  / stars
+# text only / stars
 # Currier's language B, hand X
 #
 # Light star, 7 points, tail
@@ -7545,7 +7557,7 @@
 #
 <f108v>    <! $Q=T $P=L $F=f $B=6 $I=S $L=B $H=3>
 # page 223
-# text only/ stars
+# text only / stars
 # Currier's language B
 #
 # Light star, dotted, 7 points, long tail
@@ -8427,8 +8439,8 @@
 #
 <f116r>    <! $Q=T $P=W $F=z $B=1 $I=S $L=B $H=3>
 # page 234
-# Currier's language B
 # text only / stars
+# Currier's language B
 #
 # Light star, 7 points
 <f116r.1,@P0>     <%>kchdpy.shey.qokain.otalsh[?:e]dy.qoteey.shear.ain.or,llory.{i'h}earamom
@@ -8501,6 +8513,7 @@
 #
 <f116v>    <! $Q=T $P=X $F=z $B=1 $I=T $H=3 $X=V>
 # page 235
+# text only
 # has "key-like" sequence
 # has extraneous writing mixed with voynich script
 # eva in < >, approximately:
